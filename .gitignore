@@ -1,3 +1,4 @@
+# remove big files
 proprietary/system_ext/apex/com.android.vndk.v30.apex
 proprietary/system_ext/priv-app/Settings/Settings.apk
 proprietary/system_ext/priv-app/MiuiSystemUI/MiuiSystemUI.apk
